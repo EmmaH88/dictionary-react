@@ -1,5 +1,6 @@
 import React from "react";
 import Meaning from "./Meaning";
+import Loader from "./Loader";
 import Phonetics from "./Phonetics";
 import "./Results.css";
 export default function Results(props) {
@@ -27,6 +28,6 @@ export default function Results(props) {
       </div>
     );
   } else {
-    return null;
+    return <Loader />;
   }
 }
