@@ -1,0 +1,17 @@
+.Phonetics a {
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  color: rgba(0, 42, 255, 0.342);
+  transition: all 1000ms ease-in-out;
+}
+
+.Phonetics a:hover {
+  color: blueviolet;
+}
+
+.Phonetics p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}

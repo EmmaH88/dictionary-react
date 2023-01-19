@@ -12,7 +12,8 @@
 }
 
 .Dictionary .inspo {
-  font-size: 13px;
-  color: purple;
+  font-size: 15px;
+  color: rgb(48, 55, 240);
   text-transform: capitalize;
+  text-align: center;
 }
