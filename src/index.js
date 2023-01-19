@@ -8,6 +8,10 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <footer>
+      This page is open sourced on git hub, hosted on netlify, and coded by emma
+      h 🤩
+    </footer>
   </React.StrictMode>
 );
 

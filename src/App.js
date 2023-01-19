@@ -10,14 +10,9 @@ function App() {
           <h1>🧾 Dictionary App 🧾</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="hello" />
         </main>
       </div>
-
-      <footer>
-        This page is open sourced on git hub, hosted on netlify, and coded by
-        emma h 🤩
-      </footer>
     </div>
   );
 }

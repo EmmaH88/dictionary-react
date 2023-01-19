@@ -1,0 +1,18 @@
+.Dictionary section {
+  background: aliceblue;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 21px 9px 30px 7px rgba(158, 189, 239, 0.6);
+  margin: 30px 10px;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 9px 10px;
+}
+
+.Dictionary .inspo {
+  font-size: 13px;
+  color: purple;
+  text-transform: capitalize;
+}
