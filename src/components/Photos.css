@@ -1,0 +1,8 @@
+.Photos img {
+  border: 3px solid lightblue;
+  border-radius: 10px;
+}
+
+.Photos img:hover {
+  transform: scale(1.64, 1.64) translate(-1px, 0px);
+}

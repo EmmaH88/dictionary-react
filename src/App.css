@@ -1,8 +1,17 @@
-h1 {
+h1,
+h2,
+h3 {
   font-size: 68px;
   text-align: center;
-  color: rgb(91, 80, 80);
   font-weight: bold;
+  color: #8a2be2;
+}
+
+h4 {
+  color: #8a2be2;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
 }
 
 .container {
